@@ -1,0 +1,4 @@
+216.239.38.120 www.google.com #forcesafesearch
+216.239.38.120 www.google.cd #forcesafesearch
+216.239.38.120 www.google.fr #forcesafesearch
+216.239.38.120 www.google.co.za #forcesafesearch
