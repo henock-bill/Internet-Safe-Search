@@ -1,0 +1,5 @@
+https://www.opendns.com/setupguide/#familyshield
+
+- 208.67.222.123
+- 208.67.220.123
+
